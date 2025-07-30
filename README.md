@@ -1,6 +1,6 @@
 # henk-robinson-foundation-website
 Volunteer web project built using Wix to support global outreach and donations for a nonprofit.
-![Homepage Screenshot](Henk I robinson Foundation 1.png)
+![Homepage Screenshot](henk_i_robinson_foundation_1.png)
 
 This project highlights my volunteer work as **Director of Information Technology** and **Board Member** for the Henk I. Robinson Foundation, a nonprofit supporting disenfranchised communities.
 
