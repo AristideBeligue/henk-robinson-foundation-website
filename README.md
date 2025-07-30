@@ -21,5 +21,5 @@ This project highlights my volunteer work as **Director of Information Technolog
 - Volunteer project management
 
 ## 📅 Duration
-**July 2020 – January 2021**
+**July 2020 – July 2021**
 
